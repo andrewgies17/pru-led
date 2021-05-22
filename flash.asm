@@ -5,7 +5,6 @@
 
 start:
     JMP on
-
 on:
     SET r30.t5 ; P9_27
     LDI32 r0, DELAY
